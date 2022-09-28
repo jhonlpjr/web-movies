@@ -4,3 +4,9 @@
 [submodule "frontend-react"]
 	path = frontend-react
 	url = https://github.com/jhonlpjr/frontend-web-movies-react.git
+[submodule "frontend-angular"]
+	path = frontend-angular
+	url = https://github.com/jhonlpjr/frontend-web-movies-angular.git
+[submodule "database"]
+	path = database
+	url = https://github.com/jhonlpjr/database-web-movies-mysql.git
